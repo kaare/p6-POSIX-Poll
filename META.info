@@ -1,0 +1,13 @@
+{
+    "perl" : "6.c",
+    "name" : "POSIX::Poll",
+    "version" : "0.1.0",
+    "description" : "POSIX Poll API",
+    "authors" : [ "Kaare Rasmussen" ],
+    "provides" : {
+        "POSIX::Poll" : "lib/POSIX/Poll.pm"
+    },
+    "depends" : [ ],
+    "resources" : [ ],
+    "source-url" : "git://github.com/kaare/p6-POSIX-Poll"
+}
